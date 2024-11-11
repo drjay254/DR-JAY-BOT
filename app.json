@@ -2,7 +2,7 @@
   "name":"DR JAY BOT",
   "description":"Best whatsapp bot developed by BRUCE BERA",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
+  "logo":"https://files.catbox.moe/hl1y1z.jpg",
   "repository":"https://github.com/drjay254/DR-JAY-BOT",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
+      "value":"https://files.catbox.moe/hl1y1z.jpg",
       "required":false
        
      },
